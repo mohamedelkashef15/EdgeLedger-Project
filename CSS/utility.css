@@ -1,0 +1,71 @@
+
+.text-primary
+{
+  color: #28a745 ;
+}
+
+.btn
+{
+  background: #28a745 ;
+  padding: 10px 33px;
+  display: inline-block;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 16px;
+
+}
+.btn:hover
+{
+  opacity: 0.9;
+}
+
+.flex-items
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.btn-primary
+{
+  border: 2px solid white ;
+  border-radius: 5px;
+  padding: 10px 30px;
+  
+}
+.bg-dark
+{
+  background-color: #333333;
+  color: white;
+}
+/* flex colomns */
+.bg-light
+{
+  background-color: white;
+  color: #333333;
+}
+/* flex colomns */
+
+/* .flex-colomns .row
+{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.flex-colomns .colomn
+{
+  display: flex;
+  flex: 1;
+  flex-basis: 100%;
+  flex-direction: column;
+}
+
+.flex-colomns .colomn .colomn-1,
+.flex-colomns .colomn .colomn-2
+{
+  height: 100%;
+} */
+
